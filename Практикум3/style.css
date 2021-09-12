@@ -1,0 +1,28 @@
+.cl1 {
+  color: green;
+}
+
+.cl2 {
+  color: #9bc9eb;
+  background-color: #fafabe;
+  font-size: 30px;
+}
+
+.cl3 {
+  color: #ce08ff;
+  font-size: 20px;
+}
+
+.cl4 {
+  color: #006400;
+  font-weight: 100;
+}
+
+.cl5 {
+  color: #01758c;
+  font-weight: bold;
+}
+.cl6 {
+  color: #6e0000;
+  font-weight: lighter;
+}
